@@ -1,6 +1,6 @@
 # Proyecto Profecional 1
 
-## PP1-MachineLearning-2S-2021
+## PP1-MachineLearning-2S-2022
 
 ### BREVE EXPLICACION DE LA CONSIGNA
 
