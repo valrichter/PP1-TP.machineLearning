@@ -4,7 +4,7 @@
 
 ### BREVE EXPLICACION DE LA CONSIGNA
 
-Objetivo del TP
+Objetivo del TP:\
 Aplicar los algoritmos necesarios, de acuerdo al modelo que le corresponda al conjunto de datos que ustedes
 determinen, y analizarlos para inferir o determinar los resultados utilizando algoritmos de Machine Learning y
 Python con la plataforma, programa o programas que elijan entre los que aparecen en la documentación de
