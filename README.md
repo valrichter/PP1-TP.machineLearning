@@ -1,5 +1,10 @@
 # Proyecto Profecional 1
 
+#### [Probar en vivo aca](https://pp1-tp-mlcnnweb.vercel.app/)
+
+#### Uso
+Dibuja con el mouse en el cuadrado un número del 0 al 9, y da clic en "Predecir".\
+Para limpiar el cuadrado da clic en "Limpiar".
 ## PP1-MachineLearning-2S-2022
 
 ### BREVE EXPLICACION DE LA CONSIGNA
@@ -23,9 +28,3 @@ Para mas informacion leer el archivo Enunciado.pdf
 
 Se trata de un clasificador de numeros escritos, en donde es posible dibujar un número del 0 al 9, y al dar clic en predecir intentara decir que numero es, en base aun modelo entrenado en Python con Tensorflow llamado Convolutional Neural Networks (CNN).\
 Es el mismo algoritmo que fue entrenado en el archivo CNN.ipynb
-
-#### [Probar en vivo aca](https://pp1-tp-mlcnnweb.vercel.app/)
-
-#### Uso
-Dibuja con el mouse en el cuadrado un número del 0 al 9, y da clic en "Predecir".\
-Para limpiar el cuadrado da clic en "Limpiar".
